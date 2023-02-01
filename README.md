@@ -27,6 +27,22 @@ Note: We used huggingface implementations as our primary source of transformer b
 
 If you use our dataset, please cite:
 
-Keshav Singh, Naoya Inoue, Farjana Sultana Mim, Shoichi Naito and Kentaro Inui: A Domain-specific Annotated Corpus of Implicit Reasoning in Arguments. Accepted at: LREC 2022.
+```
+@inproceedings{singh-etal-2022-irac,
+    title = "{IRAC}: A Domain-Specific Annotated Corpus of Implicit Reasoning in Arguments",
+    author = "Singh, Keshav  and
+      Inoue, Naoya  and
+      Mim, Farjana Sultana  and
+      Naito, Shoichi  and
+      Inui, Kentaro",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.499",
+    pages = "4674--4683",
+}
+```
 
 For questions or comments email us: keshav.singh29@gmail.com
